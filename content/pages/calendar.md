@@ -4,16 +4,183 @@ title: Calendar
 uid: 49223193-ba31-78d5-66e8-425faf65558f
 ---
 
-| Lec # | Topics | Key Dates |
-| --- | --- | --- |
-| 1 | Course Overview and Organization | Part 1 of the video "Triumph of the Nerds" shown in class |
-| 2 | Strategy for Software Companies: What to Think About | Part 2 of the video "Triumph of the Nerds" |
-| 3 | How Software Became a Business | Part 3 of the video "Triumph of the Nerds"  {{< br >}}  {{< br >}}Student team 1: Best Practices for IT Services Firms |
-| 4 | Microsoft® Case Study: Strategy, Management, Organization | Student Team 2: Current Standards/Platforms Battles -- .NET vs. J2EE, other  {{< br >}}  {{< br >}}Paper 1 due |
-| 5 | Managing Software Development: Basic Issues and Best Practices | Video from Microsoft®: Chris Peter's on "Shipping Software"  {{< br >}}  {{< br >}}Student Team 3: Report on Different Development Experiences and Paradigms |
-| 6 | Software Sales  {{< br >}}  {{< br >}}Guest Presentation: Brian Halligan, former MIT student and former VP of Sales, Groove Networks | Student Team 4: Software Sales Techniques |
-| 7 | Part 1: Software Marketing  {{< br >}}  {{< br >}}Guest Presentations: Steve Kahl (MIT PhD student, former VP of Goldman Sachs; and Charles DeWitt, former MIT LFM student, former VP of Strategy and Planning, i2, current Director of Enterprise Marketing, Kronos Software)  {{< br >}}  {{< br >}}Part 2: Software Entrepreneurship | Student Team 5: Software Marketing and Pricing Techniques  {{< br >}}  {{< br >}}Student Team 7: Startup Analysis  {{< br >}}  {{< br >}}Paper 2 due |
-| 8 | Open Source  {{< br >}}  {{< br >}}Guest Lecturer: Professor Alan MacCormack, Harvard Business School | Student Team 6: Analysis of For-Profit Open Source Businesses  {{< br >}}  {{< br >}}Excerpts from the video: "Revolution OS" (2002) |
-| 9 | Software Business Overseas: Outsourcing and Innovation  {{< br >}}  {{< br >}}Guest Presentation -- Izhar Armoney, Charles River Ventures. Specialist on Israeli software industry. MBA Wharton, currently a director of iPhrase, July Systems, Optaros, Proficiency, ThinkFire and Virtusa | Student Team 8: Pros and Cons of Outsourcing and Global Development  {{< br >}}  {{< br >}}Student Team 9: State of India Report  {{< br >}}  {{< br >}}Student Team 10: State of China Report  {{< br >}}  {{< br >}}Student Team 11: State of Israel Report  {{< br >}}  {{< br >}}Paper 3 due |
-| 10 | "Emerging" Software Technologies/Companies - Paper Presentations 1 | &nbsp; |
-| 11 | Wrap-Up |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Overview and Organization
+{{< tdclose >}}
+{{< tdopen >}}
+Part 1 of the video "Triumph of the Nerds" shown in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Strategy for Software Companies: What to Think About
+{{< tdclose >}}
+{{< tdopen >}}
+Part 2 of the video "Triumph of the Nerds"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+How Software Became a Business
+{{< tdclose >}}
+{{< tdopen >}}
+Part 3 of the video "Triumph of the Nerds"  
+  
+Student team 1: Best Practices for IT Services Firms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Microsoft® Case Study: Strategy, Management, Organization
+{{< tdclose >}}
+{{< tdopen >}}
+Student Team 2: Current Standards/Platforms Battles -- .NET vs. J2EE, other  
+  
+Paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Managing Software Development: Basic Issues and Best Practices
+{{< tdclose >}}
+{{< tdopen >}}
+Video from Microsoft®: Chris Peter's on "Shipping Software"  
+  
+Student Team 3: Report on Different Development Experiences and Paradigms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Software Sales  
+  
+Guest Presentation: Brian Halligan, former MIT student and former VP of Sales, Groove Networks
+{{< tdclose >}}
+{{< tdopen >}}
+Student Team 4: Software Sales Techniques
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Part 1: Software Marketing  
+  
+Guest Presentations: Steve Kahl (MIT PhD student, former VP of Goldman Sachs; and Charles DeWitt, former MIT LFM student, former VP of Strategy and Planning, i2, current Director of Enterprise Marketing, Kronos Software)  
+  
+Part 2: Software Entrepreneurship
+{{< tdclose >}}
+{{< tdopen >}}
+Student Team 5: Software Marketing and Pricing Techniques  
+  
+Student Team 7: Startup Analysis  
+  
+Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Open Source  
+  
+Guest Lecturer: Professor Alan MacCormack, Harvard Business School
+{{< tdclose >}}
+{{< tdopen >}}
+Student Team 6: Analysis of For-Profit Open Source Businesses  
+  
+Excerpts from the video: "Revolution OS" (2002)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Software Business Overseas: Outsourcing and Innovation  
+  
+Guest Presentation -- Izhar Armoney, Charles River Ventures. Specialist on Israeli software industry. MBA Wharton, currently a director of iPhrase, July Systems, Optaros, Proficiency, ThinkFire and Virtusa
+{{< tdclose >}}
+{{< tdopen >}}
+Student Team 8: Pros and Cons of Outsourcing and Global Development  
+  
+Student Team 9: State of India Report  
+  
+Student Team 10: State of China Report  
+  
+Student Team 11: State of Israel Report  
+  
+Paper 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+"Emerging" Software Technologies/Companies - Paper Presentations 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap-Up
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

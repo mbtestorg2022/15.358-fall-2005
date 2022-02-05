@@ -27,12 +27,57 @@ Grading
 
 Grading will consist of approximately 25% class participation, 30% from three short essays on the readings and lectures ("reaction papers"), 15% from student team presentations to supplement the lectures, and 30% from the team project papers.
 
-| Activities | Percentages |
-| --- | --- |
-| Class Participation | 25% |
-| Three Short Essays | 30% |
-| Student Team Presentations | 15% |
-| Team Project Papers | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Short Essays
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Student Team Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Project Papers
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Required Reading
 ----------------
